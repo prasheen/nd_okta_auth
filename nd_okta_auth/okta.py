@@ -18,7 +18,7 @@ if sys.version_info[0] < 3:  # Python 2
 
 log = logging.getLogger(__name__)
 
-BASE_URL = 'https://{organization}.okta.com'
+BASE_URL = 'https://{organization}.okta-emea.com'
 
 
 class BaseException(Exception):
