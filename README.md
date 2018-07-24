@@ -72,7 +72,7 @@ In particular, we found it clumsy to use two CLI tools together to do a single
 task. Additionally, the tools did not have support for [Okta Verify with
 Push][okta_verify].
 
-# Developer Setup
+# Developer Setup 
 
 If you are interested in working on the codebase, setting up your development
 environment is quick and easy.
